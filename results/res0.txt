@@ -1,0 +1,2982 @@
+weight=0, was_interpolated=false		left: [100, 1000]
+									right: [50, 50, 500, 500]
+
+weight=10, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 50, 500, 500]
+
+weight=20, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 50, 500, 500]
+
+weight=30, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 50, 500, 500]
+
+weight=40, was_interpolated=false		left: [10, 1000]
+									right: [50, 500, 500]
+
+weight=50, was_interpolated=false		left: [1000]
+									right: [50, 500, 500]
+
+weight=60, was_interpolated=false		left: [1000]
+									right: [10, 50, 500, 500]
+
+weight=70, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 500, 500]
+
+weight=80, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 500, 500]
+
+weight=90, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 500, 500]
+
+weight=100, was_interpolated=false		left: [1000]
+									right: [50, 50, 500, 500]
+
+weight=110, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 500, 500]
+
+weight=120, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 500, 500]
+
+weight=130, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 500, 500]
+
+weight=140, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 500, 500]
+
+weight=150, was_interpolated=false		left: [1000]
+									right: [50, 100, 500, 500]
+
+weight=160, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 500, 500]
+
+weight=170, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 500, 500]
+
+weight=180, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 500, 500]
+
+weight=190, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 500, 500]
+
+weight=200, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 500, 500]
+
+weight=210, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 500, 500]
+
+weight=220, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 500, 500]
+
+weight=230, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 500, 500]
+
+weight=240, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 500, 500]
+
+weight=250, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 500, 500]
+
+weight=260, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 500, 500]
+
+weight=270, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 500, 500]
+
+weight=280, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 500, 500]
+
+weight=290, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 500, 500]
+
+weight=300, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 500, 500]
+
+weight=310, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 500, 500]
+
+weight=320, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 500, 500]
+
+weight=330, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500]
+
+weight=340, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 100, 500, 500]
+
+weight=350, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 100, 500, 500]
+
+weight=360, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 100, 500, 500]
+
+weight=370, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 100, 500, 500]
+
+weight=380, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500]
+
+weight=390, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 100, 500, 500]
+
+weight=400, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 100, 500, 500]
+
+weight=410, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=420, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=430, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=440, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 500, 500, 500]
+
+weight=450, was_interpolated=false		left: [100, 1000]
+									right: [50, 500, 500, 500]
+
+weight=460, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 500, 500, 500]
+
+weight=470, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 500, 500, 500]
+
+weight=480, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 500, 500, 500]
+
+weight=490, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 50, 500, 500, 500]
+
+weight=500, was_interpolated=false		left: [100, 1000]
+									right: [50, 50, 500, 500, 500]
+
+weight=510, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 50, 500, 500, 500]
+
+weight=520, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 50, 500, 500, 500]
+
+weight=530, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 500]
+
+weight=540, was_interpolated=false		left: [10, 1000]
+									right: [50, 500, 500, 500]
+
+weight=550, was_interpolated=false		left: [1000]
+									right: [50, 500, 500, 500]
+
+weight=560, was_interpolated=false		left: [1000]
+									right: [10, 50, 500, 500, 500]
+
+weight=570, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 500, 500, 500]
+
+weight=580, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 500, 500, 500]
+
+weight=590, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 500, 500, 500]
+
+weight=600, was_interpolated=false		left: [1000]
+									right: [50, 50, 500, 500, 500]
+
+weight=610, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 500, 500, 500]
+
+weight=620, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 500, 500, 500]
+
+weight=630, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 500]
+
+weight=640, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 500, 500, 500]
+
+weight=650, was_interpolated=false		left: [1000]
+									right: [50, 100, 500, 500, 500]
+
+weight=660, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 500, 500, 500]
+
+weight=670, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 500, 500, 500]
+
+weight=680, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 500, 500, 500]
+
+weight=690, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 500, 500, 500]
+
+weight=700, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 500, 500, 500]
+
+weight=710, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 500, 500, 500]
+
+weight=720, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 500, 500, 500]
+
+weight=730, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500]
+
+weight=740, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 500, 500, 500]
+
+weight=750, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 500, 500, 500]
+
+weight=760, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 500, 500, 500]
+
+weight=770, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 500, 500, 500]
+
+weight=780, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500]
+
+weight=790, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 500, 500, 500]
+
+weight=800, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 500, 500, 500]
+
+weight=810, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=820, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=830, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=840, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 100, 500, 500, 500]
+
+weight=850, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 100, 500, 500, 500]
+
+weight=860, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=870, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=880, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=890, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=900, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=910, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=920, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=930, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500]
+
+weight=950, was_interpolated=false		left: [100]
+									right: [50, 500, 500]
+
+weight=960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500]
+
+weight=970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500]
+
+weight=980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500]
+
+weight=990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500]
+
+weight=1000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500]
+
+weight=1010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500]
+
+weight=1020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500]
+
+weight=1030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500]
+
+weight=1040, was_interpolated=false		left: [10]
+									right: [50, 500, 500]
+
+weight=1050, was_interpolated=false		left: []
+									right: [50, 500, 500]
+
+weight=1060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500]
+
+weight=1070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500]
+
+weight=1080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500]
+
+weight=1090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500]
+
+weight=1100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500]
+
+weight=1110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500]
+
+weight=1120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500]
+
+weight=1130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500]
+
+weight=1140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500]
+
+weight=1150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500]
+
+weight=1160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500]
+
+weight=1170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500]
+
+weight=1180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500]
+
+weight=1190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500]
+
+weight=1200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500]
+
+weight=1210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500]
+
+weight=1220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500]
+
+weight=1230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500]
+
+weight=1240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500]
+
+weight=1250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500]
+
+weight=1260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500]
+
+weight=1270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500]
+
+weight=1280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500]
+
+weight=1290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500]
+
+weight=1300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500]
+
+weight=1310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500]
+
+weight=1320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500]
+
+weight=1330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500]
+
+weight=1340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500]
+
+weight=1350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500]
+
+weight=1360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500]
+
+weight=1370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500]
+
+weight=1380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500]
+
+weight=1390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500]
+
+weight=1400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500]
+
+weight=1410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=1420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=1430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500]
+
+weight=1440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500]
+
+weight=1450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500]
+
+weight=1460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500]
+
+weight=1470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500]
+
+weight=1480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500]
+
+weight=1490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500]
+
+weight=1500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500]
+
+weight=1510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500]
+
+weight=1520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500]
+
+weight=1530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500]
+
+weight=1540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500]
+
+weight=1550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500]
+
+weight=1560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500]
+
+weight=1570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500]
+
+weight=1580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500]
+
+weight=1590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500]
+
+weight=1600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500]
+
+weight=1610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500]
+
+weight=1620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500]
+
+weight=1630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500]
+
+weight=1640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500]
+
+weight=1650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500]
+
+weight=1660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500]
+
+weight=1670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500]
+
+weight=1680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500]
+
+weight=1690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500]
+
+weight=1700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500]
+
+weight=1710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500]
+
+weight=1720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500]
+
+weight=1730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500]
+
+weight=1740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500]
+
+weight=1750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500]
+
+weight=1760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500]
+
+weight=1770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500]
+
+weight=1780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500]
+
+weight=1790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500]
+
+weight=1800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500]
+
+weight=1810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=1820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=1830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500]
+
+weight=1840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500]
+
+weight=1850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500]
+
+weight=1860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500]
+
+weight=1940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000]
+
+weight=1950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000]
+
+weight=1960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000]
+
+weight=1970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000]
+
+weight=1980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000]
+
+weight=1990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000]
+
+weight=2000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000]
+
+weight=2010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000]
+
+weight=2020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000]
+
+weight=2030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000]
+
+weight=2040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000]
+
+weight=2050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000]
+
+weight=2060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000]
+
+weight=2070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000]
+
+weight=2080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000]
+
+weight=2090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000]
+
+weight=2100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000]
+
+weight=2110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000]
+
+weight=2120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000]
+
+weight=2130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000]
+
+weight=2140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000]
+
+weight=2150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000]
+
+weight=2160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000]
+
+weight=2170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000]
+
+weight=2180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000]
+
+weight=2190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000]
+
+weight=2200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000]
+
+weight=2210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000]
+
+weight=2220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000]
+
+weight=2230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000]
+
+weight=2240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000]
+
+weight=2250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000]
+
+weight=2260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000]
+
+weight=2270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000]
+
+weight=2280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000]
+
+weight=2290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000]
+
+weight=2300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000]
+
+weight=2310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000]
+
+weight=2320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000]
+
+weight=2330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000]
+
+weight=2340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000]
+
+weight=2350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000]
+
+weight=2360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000]
+
+weight=2440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000]
+
+weight=2450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000]
+
+weight=2460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000]
+
+weight=2470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000]
+
+weight=2480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000]
+
+weight=2490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000]
+
+weight=2500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000]
+
+weight=2510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000]
+
+weight=2520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000]
+
+weight=2530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000]
+
+weight=2540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000]
+
+weight=2550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000]
+
+weight=2560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000]
+
+weight=2570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000]
+
+weight=2580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000]
+
+weight=2590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000]
+
+weight=2600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000]
+
+weight=2610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000]
+
+weight=2620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000]
+
+weight=2630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000]
+
+weight=2640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000]
+
+weight=2650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000]
+
+weight=2660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000]
+
+weight=2670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000]
+
+weight=2680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000]
+
+weight=2690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000]
+
+weight=2700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000]
+
+weight=2710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000]
+
+weight=2720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000]
+
+weight=2730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000]
+
+weight=2740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000]
+
+weight=2750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000]
+
+weight=2760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000]
+
+weight=2840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000]
+
+weight=2940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000, 1000]
+
+weight=2950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000, 1000]
+
+weight=2960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000, 1000]
+
+weight=2970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000, 1000]
+
+weight=2980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000]
+
+weight=2990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000, 1000]
+
+weight=3000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000, 1000]
+
+weight=3010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000, 1000]
+
+weight=3050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000, 1000]
+
+weight=3060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000, 1000]
+
+weight=3070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000, 1000]
+
+weight=3080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000]
+
+weight=3090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000, 1000]
+
+weight=3100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000, 1000]
+
+weight=3110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000]
+
+weight=3140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000, 1000]
+
+weight=3150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000, 1000]
+
+weight=3160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000, 1000]
+
+weight=3170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000, 1000]
+
+weight=3180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000, 1000]
+
+weight=3190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000, 1000]
+
+weight=3200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000, 1000]
+
+weight=3210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000, 1000]
+
+weight=3220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000, 1000]
+
+weight=3230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000, 1000]
+
+weight=3240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000]
+
+weight=3340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000]
+
+weight=3440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000, 1000]
+
+weight=3450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000, 1000]
+
+weight=3460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000, 1000]
+
+weight=3550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000, 1000]
+
+weight=3560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000]
+
+weight=3590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000]
+
+weight=3640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000]
+
+weight=3740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000]
+
+weight=3940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000, 1000, 1000]
+
+weight=3950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000, 1000, 1000]
+
+weight=3960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=3970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=3980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=3990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000, 1000, 1000]
+
+weight=4050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000, 1000, 1000]
+
+weight=4060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 1000]
+
+weight=4140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000]
+
+weight=4440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000]
+
+weight=4940, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 500, 500, 5000]
+
+weight=4950, was_interpolated=false		left: [100, 1000]
+									right: [50, 500, 500, 5000]
+
+weight=4960, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 500, 500, 5000]
+
+weight=4970, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 500, 500, 5000]
+
+weight=4980, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 500, 500, 5000]
+
+weight=4990, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 50, 500, 500, 5000]
+
+weight=5000, was_interpolated=false		left: [100, 1000]
+									right: [50, 50, 500, 500, 5000]
+
+weight=5010, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 50, 500, 500, 5000]
+
+weight=5020, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 50, 500, 500, 5000]
+
+weight=5030, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 5000]
+
+weight=5040, was_interpolated=false		left: [10, 1000]
+									right: [50, 500, 500, 5000]
+
+weight=5050, was_interpolated=false		left: [1000]
+									right: [50, 500, 500, 5000]
+
+weight=5060, was_interpolated=false		left: [1000]
+									right: [10, 50, 500, 500, 5000]
+
+weight=5070, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 500, 500, 5000]
+
+weight=5080, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 500, 500, 5000]
+
+weight=5090, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 500, 500, 5000]
+
+weight=5100, was_interpolated=false		left: [1000]
+									right: [50, 50, 500, 500, 5000]
+
+weight=5110, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 500, 500, 5000]
+
+weight=5120, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 500, 500, 5000]
+
+weight=5130, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 5000]
+
+weight=5140, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 500, 500, 5000]
+
+weight=5150, was_interpolated=false		left: [1000]
+									right: [50, 100, 500, 500, 5000]
+
+weight=5160, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 500, 500, 5000]
+
+weight=5170, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 500, 500, 5000]
+
+weight=5180, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 500, 500, 5000]
+
+weight=5190, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 500, 500, 5000]
+
+weight=5200, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 500, 500, 5000]
+
+weight=5210, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 500, 500, 5000]
+
+weight=5220, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 500, 500, 5000]
+
+weight=5230, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 5000]
+
+weight=5240, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 500, 500, 5000]
+
+weight=5250, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 500, 500, 5000]
+
+weight=5260, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 500, 500, 5000]
+
+weight=5270, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 500, 500, 5000]
+
+weight=5280, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 5000]
+
+weight=5290, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 500, 500, 5000]
+
+weight=5300, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 500, 500, 5000]
+
+weight=5310, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=5320, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=5330, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=5340, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 100, 500, 500, 5000]
+
+weight=5350, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 100, 500, 500, 5000]
+
+weight=5360, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5370, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5380, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5390, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5400, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5410, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5420, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5430, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=5440, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 500, 500, 500, 5000]
+
+weight=5450, was_interpolated=false		left: [100, 1000]
+									right: [50, 500, 500, 500, 5000]
+
+weight=5460, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 500, 500, 500, 5000]
+
+weight=5470, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 500, 500, 500, 5000]
+
+weight=5480, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 500, 500, 500, 5000]
+
+weight=5490, was_interpolated=false		left: [10, 100, 1000]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=5500, was_interpolated=false		left: [100, 1000]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=5510, was_interpolated=false		left: [100, 1000]
+									right: [10, 50, 50, 500, 500, 500, 5000]
+
+weight=5520, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=5530, was_interpolated=false		left: [100, 1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=5540, was_interpolated=false		left: [10, 1000]
+									right: [50, 500, 500, 500, 5000]
+
+weight=5550, was_interpolated=false		left: [1000]
+									right: [50, 500, 500, 500, 5000]
+
+weight=5560, was_interpolated=false		left: [1000]
+									right: [10, 50, 500, 500, 500, 5000]
+
+weight=5570, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 500, 500, 500, 5000]
+
+weight=5580, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 500, 500, 500, 5000]
+
+weight=5590, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=5600, was_interpolated=false		left: [1000]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=5610, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 500, 500, 500, 5000]
+
+weight=5620, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=5630, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=5640, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 500, 500, 500, 5000]
+
+weight=5650, was_interpolated=false		left: [1000]
+									right: [50, 100, 500, 500, 500, 5000]
+
+weight=5660, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 500, 500, 500, 5000]
+
+weight=5670, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 500, 500, 500, 5000]
+
+weight=5680, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 5000]
+
+weight=5690, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 500, 500, 500, 5000]
+
+weight=5700, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 500, 500, 500, 5000]
+
+weight=5710, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=5720, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=5730, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=5740, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 500, 500, 500, 5000]
+
+weight=5750, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 500, 500, 500, 5000]
+
+weight=5760, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5770, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5780, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5790, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5800, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5810, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5820, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5830, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=5840, was_interpolated=false		left: [10, 1000]
+									right: [50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5850, was_interpolated=false		left: [1000]
+									right: [50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5860, was_interpolated=false		left: [1000]
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5870, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5880, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5890, was_interpolated=false		left: [10, 1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5900, was_interpolated=false		left: [1000]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5910, was_interpolated=false		left: [1000]
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5920, was_interpolated=false		left: [1000]
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5930, was_interpolated=false		left: [1000]
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=5940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 5000]
+
+weight=5950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 5000]
+
+weight=5960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 5000]
+
+weight=5970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 5000]
+
+weight=5980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 5000]
+
+weight=5990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 5000]
+
+weight=6000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 5000]
+
+weight=6010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 5000]
+
+weight=6020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 5000]
+
+weight=6030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 5000]
+
+weight=6040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 5000]
+
+weight=6050, was_interpolated=false		left: []
+									right: [50, 500, 500, 5000]
+
+weight=6060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 5000]
+
+weight=6070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 5000]
+
+weight=6080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 5000]
+
+weight=6090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 5000]
+
+weight=6100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 5000]
+
+weight=6110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 5000]
+
+weight=6120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 5000]
+
+weight=6130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 5000]
+
+weight=6140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 5000]
+
+weight=6150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 5000]
+
+weight=6160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 5000]
+
+weight=6170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 5000]
+
+weight=6180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 5000]
+
+weight=6190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 5000]
+
+weight=6200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 5000]
+
+weight=6210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 5000]
+
+weight=6220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 5000]
+
+weight=6230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 5000]
+
+weight=6240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 5000]
+
+weight=6250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 5000]
+
+weight=6260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 5000]
+
+weight=6270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 5000]
+
+weight=6280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 5000]
+
+weight=6290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 5000]
+
+weight=6300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 5000]
+
+weight=6310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=6320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=6330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 5000]
+
+weight=6340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 5000]
+
+weight=6350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 5000]
+
+weight=6360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 5000]
+
+weight=6440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 5000]
+
+weight=6450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 5000]
+
+weight=6460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 5000]
+
+weight=6470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 5000]
+
+weight=6480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 5000]
+
+weight=6490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=6500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=6510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 5000]
+
+weight=6520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=6530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=6540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 5000]
+
+weight=6550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 5000]
+
+weight=6560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 5000]
+
+weight=6570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 5000]
+
+weight=6580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 5000]
+
+weight=6590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=6600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 5000]
+
+weight=6610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 5000]
+
+weight=6620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=6630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 5000]
+
+weight=6640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 5000]
+
+weight=6650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 5000]
+
+weight=6660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 5000]
+
+weight=6670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 5000]
+
+weight=6680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 5000]
+
+weight=6690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 5000]
+
+weight=6700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 5000]
+
+weight=6710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=6720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=6730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 5000]
+
+weight=6740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 5000]
+
+weight=6750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 5000]
+
+weight=6760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 5000]
+
+weight=6840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 5000]
+
+weight=6940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000, 5000]
+
+weight=6950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000, 5000]
+
+weight=6960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000, 5000]
+
+weight=6970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000, 5000]
+
+weight=6980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000, 5000]
+
+weight=6990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000, 5000]
+
+weight=7000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000, 5000]
+
+weight=7010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000, 5000]
+
+weight=7050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000, 5000]
+
+weight=7060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000, 5000]
+
+weight=7070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000, 5000]
+
+weight=7080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000, 5000]
+
+weight=7090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000, 5000]
+
+weight=7100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000, 5000]
+
+weight=7110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 5000]
+
+weight=7140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000, 5000]
+
+weight=7150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000, 5000]
+
+weight=7160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000, 5000]
+
+weight=7170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000, 5000]
+
+weight=7180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000, 5000]
+
+weight=7190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000, 5000]
+
+weight=7200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000, 5000]
+
+weight=7210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000, 5000]
+
+weight=7220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000, 5000]
+
+weight=7230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000, 5000]
+
+weight=7240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000, 5000]
+
+weight=7340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 5000]
+
+weight=7440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000, 5000]
+
+weight=7450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000, 5000]
+
+weight=7460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000, 5000]
+
+weight=7550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000, 5000]
+
+weight=7560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 5000]
+
+weight=7590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 5000]
+
+weight=7640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000, 5000]
+
+weight=7740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 5000]
+
+weight=7940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000, 1000, 5000]
+
+weight=7950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000, 1000, 5000]
+
+weight=7960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=7970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=7980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=7990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000, 1000, 5000]
+
+weight=8050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000, 1000, 5000]
+
+weight=8060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 5000]
+
+weight=8140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 5000]
+
+weight=8440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 5000]
+
+weight=8940, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=8950, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=8960, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=8970, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=8980, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=8990, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9000, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9010, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9020, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9030, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9040, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9050, was_interpolated=false		left: []
+									right: [50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9060, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9070, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9080, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9090, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9100, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9110, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9120, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9130, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9140, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9150, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9160, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9170, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9180, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9190, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9200, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9210, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9220, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9230, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9240, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9250, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9260, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9270, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9280, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9290, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9300, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9310, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9320, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9330, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9340, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9350, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9360, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9370, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9380, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9390, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9400, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9410, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9420, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9430, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9440, was_interpolated=false		left: [10, 100]
+									right: [50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9450, was_interpolated=false		left: [100]
+									right: [50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9460, was_interpolated=false		left: [100]
+									right: [10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9470, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9480, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9490, was_interpolated=false		left: [10, 100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9500, was_interpolated=false		left: [100]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9510, was_interpolated=false		left: [100]
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9520, was_interpolated=false		left: [100]
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9530, was_interpolated=false		left: [100]
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9540, was_interpolated=false		left: [10]
+									right: [50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9550, was_interpolated=false		left: []
+									right: [50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9560, was_interpolated=false		left: []
+									right: [10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9570, was_interpolated=false		left: []
+									right: [10, 10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9580, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9590, was_interpolated=false		left: [10]
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9600, was_interpolated=false		left: []
+									right: [50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9610, was_interpolated=false		left: []
+									right: [10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9620, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9630, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9640, was_interpolated=false		left: [10]
+									right: [50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9650, was_interpolated=false		left: []
+									right: [50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9660, was_interpolated=false		left: []
+									right: [10, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9670, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9680, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9690, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9700, was_interpolated=false		left: []
+									right: [50, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9710, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9720, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9730, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9740, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9750, was_interpolated=false		left: []
+									right: [50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9760, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9770, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9780, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9790, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9800, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9810, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9820, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9830, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9840, was_interpolated=false		left: [10]
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9850, was_interpolated=false		left: []
+									right: [50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9860, was_interpolated=false		left: []
+									right: [10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9870, was_interpolated=false		left: []
+									right: [10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9880, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9890, was_interpolated=false		left: [10]
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9900, was_interpolated=false		left: []
+									right: [50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9910, was_interpolated=false		left: []
+									right: [10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9920, was_interpolated=false		left: []
+									right: [10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
+weight=9930, was_interpolated=false		left: []
+									right: [10, 10, 10, 50, 50, 100, 100, 100, 500, 500, 500, 1000, 1000, 1000, 5000]
+
